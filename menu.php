@@ -27,8 +27,6 @@
 
       <div class="row align-items-center">
 
-         <a href="#" class="logo mr-auto"> <i class="fas fa-mug-hot"></i> coffee </a>
-
          <nav class="nav">
             <a href="http://127.0.0.1:8000/">Beranda</a>
             <a href="Tentang.php">Tentang</a>

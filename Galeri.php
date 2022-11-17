@@ -39,11 +39,6 @@
             <a href="">Blog</a>
          </nav>
 
-         <div class="icons">
-            <div id="menu-btn" class="fas fa-bars"></div>
-            <div id="login-btn" class="fas fa-user"></div>
-         </div>
-
       </div>
 
    </div>
@@ -51,25 +46,6 @@
 </header>
 
 <!-- login form starts -->
-
-<div class="login-form">
-
-   <form action="">
-      <div id="close-login-form" class="fas fa-times"></div>
-      <a href="#" class="logo mr-auto"> <i class="fas fa-mug-hot"></i> coffee </a>
-      <h3>Mari kita mulai hari baru yang hebat</h3>
-      <input type="email" name="" placeholder="Masukkan email Anda" id="" class="box">
-      <input type="password" name="" placeholder="Masukkan password anda" id="" class="box">
-      <div class="flex">
-         <input type="checkbox" name="" id="ingat saya">
-         <label for="ingat saya">Ingat saya</label>
-         <a href="#">Tidak ingat kata sandi?</a>
-      </div>
-      <input type="submit" value="login now" class="link-btn">
-      <p class="account">Tidak punya akun? <a href="#">Buatlah akun</a></p>
-   </form>
-
-</div>
 
 <section class="gallery" id="gallery">
 
