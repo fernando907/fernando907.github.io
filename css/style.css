@@ -77,7 +77,8 @@ section {
 
 .header {
   z-index: 1000;
-  padding: 4rem 0;
+  background-color: #ff0000;
+  padding: 2rem 0;
 }
 
 .header.active {
